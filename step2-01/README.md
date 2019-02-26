@@ -140,7 +140,7 @@ Please complete all exercises inside the `exercise/src` folder unless otherwise 
 
 2. Create another module file called `fibonacci.ts`
 
-3. Inside the file from (step 2), write a function called `fib(n)` that takes in a number and returns a the n-th Fibonacci number - be sure the specify the type of n
+3. Inside the file from (step 2), write a function called `fib(n)` that takes in a number and returns the n-th Fibonacci number - be sure to specify the type of n
 
 > HINT: function fib(n: number) { return n <= 1 ? n : fib(n - 1) + fib(n - 2); }
 
